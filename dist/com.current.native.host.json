@@ -1,0 +1,9 @@
+{
+  "name": "com.current.native.host",
+  "description": "Current open IDEA project",
+  "path": "C:\\current-native-host\\current-native-host.exe",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://aiikjebchhkngdicefdcdcjfibaepean/"
+  ]
+}
